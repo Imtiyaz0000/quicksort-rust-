@@ -23,7 +23,7 @@ fn quicksort(arr: &mut Vec<i64>) -> &mut Vec<i64> {
     let mut left = quicksort(&mut arr[..p1].to_vec());
     let mut right = quicksort(&mut arr[p1+1..].to_vec());
 
-    left.to
+    left.con
 }
 
 fn main() {
