@@ -1,1 +1,11 @@
-./quicksort/target/*
+quicksort/target/*
+quicksort/target/debug/incremental/quicksort-11am7243jvb65/s-guh9lrku47-7ywna7.lock
+quicksort/target/debug/incremental/quicksort-11am7243jvb65/s-guh9lrku47-7ywna7-working/dep-graph.bin
+quicksort/target/debug/incremental/quicksort-11am7243jvb65/s-guh9lrku47-7ywna7-working/dep-graph.part.bin
+quicksort/target/debug/incremental/quicksort-11am7243jvb65/s-guh9lrku47-7ywna7-working/query-cache.bin
+quicksort/target/debug/incremental/quicksort-11am7243jvb65/s-guh9lrku47-7ywna7-working/work-products.bin
+quicksort/target/debug/incremental/quicksort-o8qywz0qxg6o/s-guh9lrjqqj-efqbz2.lock
+quicksort/target/debug/incremental/quicksort-o8qywz0qxg6o/s-guh9lrjqqj-efqbz2-working/dep-graph.bin
+quicksort/target/debug/incremental/quicksort-o8qywz0qxg6o/s-guh9lrjqqj-efqbz2-working/dep-graph.part.bin
+quicksort/target/debug/incremental/quicksort-o8qywz0qxg6o/s-guh9lrjqqj-efqbz2-working/query-cache.bin
+quicksort/target/debug/incremental/quicksort-o8qywz0qxg6o/s-guh9lrjqqj-efqbz2-working/work-products.bin
